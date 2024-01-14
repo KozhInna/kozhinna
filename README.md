@@ -1,8 +1,8 @@
 ### Hi there, I'm Inna 👋
 
-- 🔭 I’m currently doing Full Stack Web Development course
-- 🌱 I’m currently learning everything 👩‍💻
-- ⚡ Fun fact: I've been to Yellowstone national park 5 times
+- I’m currently doing Full Stack Web Development course👩‍💻
+- I’m currently learning everything 🤓
+- Fun fact: I've been to Yellowstone national park 5 times 🌳
 
 ### Languages and Tools:
 
